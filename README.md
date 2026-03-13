@@ -91,4 +91,4 @@ python3 __main__.py
 
 Here is an example expected runtime:
 
-![Ok runtime](image.png)
+![Ok runtime](./images/image.png)
